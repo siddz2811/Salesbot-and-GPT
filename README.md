@@ -24,16 +24,18 @@ Vector Database: Pinecone serves as the vector database, providing efficient sto
 <br>
 Embeddings: OpenAI embeddings are utilized in the current implementation, though open-source embeddings can be seamlessly integrated for further customization.
 <br>
-API and Framework Choices
-FastAPI
 <br>
-Streamlit
+<b>API and Framework Choices</b>
+<br>
+1.FastAPI
+<br>
+2.Streamlit
 <br>
 <b>SearchGPT Functionality</b>
 <br>
 In addition to Walmart Bot, the interface also facilitates the use of SearchGPT, enabling users to search for any question and obtain answers from the internet.
 <br>
-Technical Implementation
+<b>Technical Implementation</b>
 <br>
 Language Models: Large language models are utilized in combination with LangChain and various tools to power the SearchGPT system.
 
