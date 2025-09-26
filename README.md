@@ -8,9 +8,11 @@ The Walmart SalesBot and SearchGPT repository provides a AI solution to improve 
 <br>
 The Streamlit interface offers users two distinct options: Walmart Bot and SearchGPT.
 <br>
-Walmart Bot Functionality
+<br>
+<b>Walmart Bot Functionality</b>
 <br>
 The Walmart Bot functionality allows users to seamlessly search for products on Walmart. Additionally, it provides responses to specific product-related queries such as pricing inquiries and feature comparisons (e.g., "What is the price of iPhone 12?" or "Compare features of products"). Each response is accompanied by a source link or product link, offering users a comprehensive answer.
+<br>
 <br>
 Technical Implementation
 <br>
