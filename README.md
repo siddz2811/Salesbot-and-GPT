@@ -1,13 +1,17 @@
-Overview
+<b>Overview</b>
+<br>
+<br>
 The Walmart SalesBot and SearchGPT repository provides a AI solution to improve customer service and search capabilities. The tool includes an AI chatbot, enabling users to interact with either the'WalmartBot' or'SearchGPT' bot in real-time. It utilizes a robust conversational AI agent that can fetch webpage content, gather weather details, conduct searches, and retrieve news. It provides a sales assistance system for Walmart, implementing stages of sales conversations and managing customer interactions. Additionally, the repository includes an API server for product search and information retrieval.This project draws inspiration from SalesGPT and various other open-source initiatives. It is important to note that no direct copying or borrowing of ideas has occurred, and sincere gratitude is extended to all open source projects.
+<br>
 <br>
 <b>Walmart Bot</b>
 <br>
 The Streamlit interface offers users two distinct options: Walmart Bot and SearchGPT.
 <br>
 Walmart Bot Functionality
+<br>
 The Walmart Bot functionality allows users to seamlessly search for products on Walmart. Additionally, it provides responses to specific product-related queries such as pricing inquiries and feature comparisons (e.g., "What is the price of iPhone 12?" or "Compare features of products"). Each response is accompanied by a source link or product link, offering users a comprehensive answer.
-
+<br>
 Technical Implementation
 <br>
 Language Models: OpenAI models are employed in the project, with the flexibility to utilize any open-source model from Hugging Face.
