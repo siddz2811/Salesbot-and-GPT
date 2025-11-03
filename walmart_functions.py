@@ -515,7 +515,7 @@ conversation_stages = {'1' : "Introduction: When you start the conversation by i
 # Set up of your agent
 # Agent characteristics - can be modified
 config = dict(
-salesperson_name = "Walmart Bot(Developed by Siddhart)",
+salesperson_name = "Walmart Bot(Developed by Siddharth)",
 salesperson_role= "Sales Representative",
 company_name="Walmart",
 company_business="Walmart Inc. is an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores in the United States, headquartered in Bentonville, Arkansas.",
